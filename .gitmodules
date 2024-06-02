@@ -1,0 +1,6 @@
+[submodule "supersub-server"]
+	path = supersub-server
+	url = https://github.com/prettyirrelevant/supersub-server
+[submodule "supersub-contracts"]
+	path = supersub-contracts
+	url = https://github.com/ScMofeoluwa/supersub-contracts
