@@ -8,15 +8,18 @@ This repository is a monorepo containing the following submodules:
 
 ### 1. supersub-contracts
 
-This submodule contains the core smart contracts for Supersub, including the Subscription Plugin and Cross-Chain Bridge contracts. For more details, refer to the [supersub-contracts README](supersub-contracts/README.md).
+This submodule contains the core smart contracts for Supersub, including the Subscription Plugin and Cross-Chain Bridge contracts. For more details, refer to the [supersub-contracts README](https://github.com/ScMofeoluwa/supersub-contracts/blob/5debac1504270bbadcabe93505d979417d64bcad/README.md).
 
 ### 2. supersub-server
 
-The server component of Supersub handles user authentication, subscription management, and interaction with the smart contracts. It is built using Node.js, Express.js, and Prisma ORM. For more information, refer to the [supersub-server README](supersub-server/README.md).
+The server component of Supersub handles user authentication, subscription management, and interaction with the smart contracts. It is built using Node.js, Express.js, and Prisma ORM. For more information, refer to the [supersub-server README](https://github.com/prettyirrelevant/supersub-server/blob/main/README.md).
 
 ### 3. supersub-ui
 
 This submodule houses the user interface for Supersub, built with React and Typescript. It provides a user-friendly way for service providers to manage their products and subscriptions, and for users to subscribe to services. For more details, refer to the [supersub-ui README](supersub-ui/README.md).
+
+### 4. supersub-sdk 
+The Supersub SDK is a JavaScript library that provides a convenient way to interact with the Supersub smart contracts and server API. It abstracts away the low-level details of working with Web3 and smart contracts, making it easier to integrate Supersub functionality into your applications. For more information, refer to the [supersub-sdk README](supersub-sdk/README.md).
 
 ## Contributing
 
